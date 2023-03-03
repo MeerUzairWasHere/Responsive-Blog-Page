@@ -1,2 +1,2 @@
-# Responsive-Blog-Page
+# Responsive-NFT-Page
 Scrimba exercise
